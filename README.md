@@ -21,4 +21,4 @@ Cookies:
 ## How to install this project
 1. Clone this Github repository into a directory of your choice.
 2. Within the project folde, open the session or the cookies subfolder, and then open the home.html page in your browser.
-3. After playing around with that, open the other subfolder and open that subfolder's home.html in your rbowser.
+3. After playing around with that, open the other subfolder and open that subfolder's home.html in your browser.
